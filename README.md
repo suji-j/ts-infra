@@ -49,9 +49,9 @@
 <br/>
 
 ## 4️⃣ 기술 스택
-![Image](https://github.com/user-attachments/assets/bb422eb7-c1ae-48f2-a6bf-db5a4094395f)
+![Image](https://github.com/user-attachments/assets/6abd8a9b-439b-457a-b743-6fe22470c3f3)
 
 <br/>
 
 ## 아키텍처
-![Image](https://github.com/user-attachments/assets/24ee73a2-f25a-442c-9ccf-eb4f1b9b573c)
+![Image](https://github.com/user-attachments/assets/416e9a5a-3636-440e-9771-7881a7b94e91)
